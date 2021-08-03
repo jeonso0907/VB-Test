@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VB Test": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
